@@ -8,7 +8,9 @@ Problem: Dispatch Packages:
 3) REJECTED: bulky and heavy
 
 1: ShortAutomationFactory:
+
 -Short and direct approach of just using one function
+
 - handle negative value edge case
 
 - Test cases already in file for all the three stacks so just need to run the file
